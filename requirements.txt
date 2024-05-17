@@ -1,0 +1,10 @@
+argparse
+bibtexparser
+requests
+habanero
+PyGithub
+beautifulsoup4
+PyPDF2
+googlesearch-python
+ratelimit==2.2.1
+backoff==1.11.1
